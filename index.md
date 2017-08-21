@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 基于程序分析技术的代码质量保障系统
 
-You can use the [editor on GitHub](https://github.com/Idontbelonghere/kakarotto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+通过静态扫描源程序,我们可以通过静态分析程序的语义计算出程序运行过程中可能出现的一些状态,从而自动检测出潜在的错误。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+静态测试不需要我们实际运行所检测的软件系统,因而可以第一时间应用于软件开发过程中,在编码过程中发现并报告错误,将软件错误的危害和修复错误的代价降到最低。
+
+Use [Wukong](https://jekyllrb.com/) to make your coding better.
 
 ### Markdown
 
