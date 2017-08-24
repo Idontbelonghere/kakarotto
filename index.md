@@ -31,34 +31,7 @@ Facebook、微软、Oracle等也开发了此类工具在公司内部使用。
 3. 提供方便的接口可以通过用户描述定义新的错误类型
 4. 分析效率方面能够在一分钟内分析上万行代码，适用于个人开发阶段在个人PC上进行检测
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Idontbelonghere/kakarotto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with wukong? [contact support](mailto:676760359@qq.com) and we’ll help you sort it out.
