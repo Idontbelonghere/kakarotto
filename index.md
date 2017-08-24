@@ -4,7 +4,7 @@
 
 静态测试不需要我们实际运行所检测的软件系统,因而可以第一时间应用于软件开发过程中,在编码过程中发现并报告错误,将软件错误的危害和修复错误的代价降到最低。
 
-Use [Wukong](https://jekyllrb.com/) to make your coding better.
+Use [Wukong](/) to make your coding better.
 
 
 ### 为什么使用静态测试工具
