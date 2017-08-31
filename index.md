@@ -22,14 +22,17 @@ Facebook、微软、Oracle等也开发了此类工具在公司内部使用。
 
 最成功的商业工具Coverity自称误报率在10%-15%左右，但有公司评测其实际误报率通常达到60%-75%，而其他商业和开源工具的误报率更为严重；对于超过百万行的大型软件系统，这些商业软件通常需要超过一天的时间来分析，如Fortify在分析Java HotSpotVM（37 万行C++程序时耗时达到 5 天。在漏报方面，由于不确定系统内的已知错误的多少，因而我们无法给出一个准确量化的估计。但近年影响比较大的一些安全漏洞，如OpenSSL库中的 HeartBleeding漏洞，BashScript中的ShellShock漏洞，Android系统媒体库中的StageFright漏洞均没有由这些商业工具检测出。
 
-
+#### 图形化运行入口
+![UI](/images/wukong_begin.jpg)
 ### Wukong的优势
 
 1. 能够有效发现已有工具无法检测到的深层次错误，特别是类似 HeartBleeding 漏洞等涉及复杂指针和别名关系的错误
 2. 在误报率方面能够在已有工具上进一步提高，在找到更多错误的基础上避免引入更多的误报
 3. 提供方便的接口可以通过用户描述定义新的错误类型
 4. 分析效率方面能够在一分钟内分析上万行代码，适用于个人开发阶段在个人PC上进行检测
-
+#### 结果数据
+![bugTypes](/images/bugSummary.jpg)
+![codeView](/images/codeview.jpg)
 
 ### Support or Contact
 
