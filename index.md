@@ -24,12 +24,14 @@ Facebook、微软、Oracle等也开发了此类工具在公司内部使用。
 
 #### 图形化运行入口
 ![UI](/images/wukong_begin.jpg)
+
 ### Wukong的优势
 
 1. 能够有效发现已有工具无法检测到的深层次错误，特别是类似 HeartBleeding 漏洞等涉及复杂指针和别名关系的错误
 2. 在误报率方面能够在已有工具上进一步提高，在找到更多错误的基础上避免引入更多的误报
 3. 提供方便的接口可以通过用户描述定义新的错误类型
 4. 分析效率方面能够在一分钟内分析上万行代码，适用于个人开发阶段在个人PC上进行检测
+
 #### 结果数据
 ![bugTypes](/images/bugSummary.jpg)
 ![codeView](/images/codeview.jpg)
